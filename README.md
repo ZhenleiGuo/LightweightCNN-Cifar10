@@ -1,4 +1,4 @@
-# Lightweight CNNs for CIFAR-10: Report and Code
+# Lightweight CNNs for CIFAR-10: Code, Model, and data
 **Authors: Zhenlei Guo, Xiaolin Lu.**
 Under the supervision of **Prof.Dijana Petrovska**
 
